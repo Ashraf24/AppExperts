@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="intro_java_exercises-master/|intro_java_exercises-master/src/|intro_java_exercises-master/src/|intro_java_exercises-master/|src/apollo/exercises/ch01_output/|src/apollo/exercises/ch02_variables/|src/apollo/exercises/ch03_methods/|src/apollo/exercises/ch04_loops/|src/apollo/exercises/ch07_inheritance/|apollo/exercises/test/" kind="src" path=""/>
+	<classpathentry kind="src" path="src/apollo/exercises/ch07_inheritance"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
